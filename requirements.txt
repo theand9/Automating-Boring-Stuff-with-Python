@@ -1,0 +1,5 @@
+certifi==2019.11.28
+pipdeptree==0.13.2
+PyPDF2==1.26.0
+setuptools==46.0.0.post20200308
+wheel==0.34.2

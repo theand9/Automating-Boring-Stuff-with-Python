@@ -1,0 +1,45 @@
+[
+    {
+        "key": "certifi",
+        "package_name": "certifi",
+        "installed_version": "2019.11.28",
+        "required_version": "2019.11.28",
+        "dependencies": []
+    },
+    {
+        "key": "pipdeptree",
+        "package_name": "pipdeptree",
+        "installed_version": "0.13.2",
+        "required_version": "0.13.2",
+        "dependencies": [
+            {
+                "key": "pip",
+                "package_name": "pip",
+                "installed_version": "20.0.2",
+                "required_version": ">=6.0.0",
+                "dependencies": []
+            }
+        ]
+    },
+    {
+        "key": "pypdf2",
+        "package_name": "PyPDF2",
+        "installed_version": "1.26.0",
+        "required_version": "1.26.0",
+        "dependencies": []
+    },
+    {
+        "key": "setuptools",
+        "package_name": "setuptools",
+        "installed_version": "46.0.0.post20200308",
+        "required_version": "46.0.0.post20200308",
+        "dependencies": []
+    },
+    {
+        "key": "wheel",
+        "package_name": "wheel",
+        "installed_version": "0.34.2",
+        "required_version": "0.34.2",
+        "dependencies": []
+    }
+]
