@@ -1,4 +1,4 @@
-certifi==2019.11.28
+certifi==2022.12.7
 pipdeptree==0.13.2
 PyPDF2==1.26.0
 setuptools==46.0.0.post20200308
